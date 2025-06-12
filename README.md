@@ -5,7 +5,7 @@
 ![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
 
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilized Python (Pandas) for data processing and analysis, SQL (MySQL) for advanced querying, and structured problem-solving techniques to solve key business questions. This project developed my skills in data cleaning, data manipulation, SQL querying, and data pipeline creation.
+This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilized Python (Pandas library) for data processing and analysis, SQL (MySQL) for advanced querying, and structured problem-solving techniques to solve key business questions. This project developed my skills in data cleaning, data manipulation, SQL querying, and data pipeline creation.
 
 ---
 
